@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse Gaming Latency Optimizer",
+  "description": "Windows gaming network optimization utility with real-time ping and packet loss telemetry, one-click route booster, auto Game Mode, and DNS tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
